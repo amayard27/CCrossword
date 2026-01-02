@@ -21,8 +21,8 @@ A terminal-based crossword puzzle generator written in C. Input either a text fi
 - **Flexible Input**: Accept words from a text file or manual entry
 - **Automatic Grid Generation**: Creates crossword grids automatically
 - **Dual Output**: Generates both solved and unsolved puzzle versions
-- **Clue Generation**: Automatically generates clues for the crossword
-- **Terminal-Based**: Runs entirely in the terminal for simplicity
+- **Clue Generation**: Automatically generates clues for the crossword - Anagram-based
+- **Terminal-Based**: Outputs entirely in the terminal for simplicity
 - **Sample Word List**: Includes `ndwords.txt` as an example word list
 
 ---
